@@ -1,16 +1,32 @@
 ### Hi there 👋
 
 <!--
-**Marceloleda/marceloleda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>Sobre Mim</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Eu sou Marcelo Leda, um entusiasta de tecnologia apaixonado por desenvolvimento de software. Com vasta experiência e habilidades em diversas áreas da programação, meu foco principal é no desenvolvimento web utilizando tecnologias como React, Node.js e bancos de dados SQL e NoSQL. Estou sempre em busca de desafios e oportunidades para expandir meus conhecimentos e aprimorar minhas habilidades.
+
+Tecnologias e Habilidades
+Aqui estão algumas das tecnologias com as quais trabalho:
+
+React
+Node.js
+PostgreSQL
+JavaScript
+Express
+MongoDB
+Styled-Components
+HTML
+CSS
+Prisma
+Jest
+Docker
+Estas são apenas algumas das habilidades e tecnologias que domino. Estou sempre aberto a aprender e explorar novas ferramentas e tecnologias.
+
+Formas de Comunicação
+Você pode entrar em contato comigo através das seguintes formas:
+
+E-mail: marcelo.leda@icomp.ufam.edu.br
+LinkedIn: [link para o seu perfil no LinkedIn]
+[Outras formas de contato que você desejar adicionar]
+
