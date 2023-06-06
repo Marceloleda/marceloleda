@@ -1,7 +1,7 @@
 
 <h1>Sobre Mim</h1>
 
-<p>Olá! Eu sou Marcelo Leda, um entusiasta de tecnologia apaixonado por desenvolvimento de software. Com vasta experiência e habilidades em diversas áreas da programação, meu foco principal é no desenvolvimento web utilizando tecnologias como React, Node.js e bancos de dados SQL e NoSQL. Estou sempre em busca de desafios e oportunidades para expandir meus conhecimentos e aprimorar minhas habilidades.</p>
+<p>Olá! Eu sou Marcelo Leda, apaixonado por desenvolvimento de software. Com vasta experiência e habilidades em diversas áreas da programação, meu foco principal é no desenvolvimento web utilizando tecnologias como React, Node.js e bancos de dados SQL e NoSQL. Estou sempre em busca de desafios e oportunidades para expandir meus conhecimentos e aprimorar minhas habilidades.</p>
 
 <h2>Tecnologias e Habilidades</h2>
 Aqui estão algumas das tecnologias com as quais trabalho:
