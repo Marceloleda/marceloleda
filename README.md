@@ -48,5 +48,8 @@ Você pode entrar em contato comigo através das seguintes formas:
 <a href="https://www.linkedin.com/in/marcelo-leda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Marceloleda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+  
+  
+![Snake animation](https://github.com/Marceloleda/Marceloleda/blob/output/github-contribution-grid-snake.svg)
 
-
+<div class="tenor-gif-embed" data-postid="17955750" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/looking-for-a-job-job-jobless-unemployed-hire-me-gif-17955750">Looking For A Job Job GIF</a>from <a href="https://tenor.com/search/looking+for+a+job-gifs">Looking For A Job GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
