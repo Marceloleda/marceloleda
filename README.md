@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<!--
 
 <h1>Sobre Mim</h1>
 
@@ -27,6 +25,5 @@ Formas de Comunicação
 Você pode entrar em contato comigo através das seguintes formas:
 
 E-mail: marcelo.leda@icomp.ufam.edu.br
-LinkedIn: [link para o seu perfil no LinkedIn]
-[Outras formas de contato que você desejar adicionar]
+LinkedIn: https://www.linkedin.com/in/marcelo-leda/
 
