@@ -6,24 +6,29 @@
 <h2>Tecnologias e Habilidades</h2>
 Aqui estão algumas das tecnologias com as quais trabalho:
 
-React
-Node.js
-PostgreSQL
-JavaScript
-Express
-MongoDB
-Styled-Components
-HTML
-CSS
-Prisma
-Jest
-Docker
+<li>React</li>
+<li>PostgreSQL</li>
+<li>JavaScript</li>
+<li>Express</li>
+<li>MongoDB</li>
+<li>Styled-Components</li>
+<li>CSS</li>
+<li>Prisma</li>
+<li>Jest</li>
+<li>Docker</li>
+
+
 Estas são apenas algumas das habilidades e tecnologias que domino. Estou sempre aberto a aprender e explorar novas ferramentas e tecnologias.
+
+<div>
+<a href="https://github.com/Marceloleda">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marceloleda&layout=compact&langs_count=7&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marceloleda&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+</div>
 
 Formas de Comunicação
 Você pode entrar em contato comigo através das seguintes formas:
 <div>
-
 <a href = "marcelo.leda@icomp.ufam.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcelo-leda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Marceloleda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
