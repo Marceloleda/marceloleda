@@ -26,8 +26,11 @@ Estas são apenas algumas das habilidades e tecnologias que domino. Estou sempre
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marceloleda&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
 
-Formas de Comunicação
+  <h2>Formas de Comunicação</h2>
+  
 Você pode entrar em contato comigo através das seguintes formas:
+  
+  
 <div>
 <a href = "marcelo.leda@icomp.ufam.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcelo-leda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
