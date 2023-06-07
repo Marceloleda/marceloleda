@@ -1,5 +1,5 @@
 
-<h1>Olá! Eu sou Marcelo Leda !</h1>
+<h1>Olá! Eu sou Marcelo Leda! 🙃</h1>
 
 <p>Apaixonado por desenvolvimento de software. Com experiência e habilidades em desenvolvimento web utilizando tecnologias como React, Node.js e bancos de dados SQL e NoSQL. Estou sempre em busca de desafios e oportunidades para expandir meus conhecimentos e aprimorar minhas habilidades.</p>
 
